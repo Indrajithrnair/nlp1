@@ -23,7 +23,7 @@ from nltk.tokenize import word_tokenize
 
 # prompt: tokenization using word_tokenize
 
-sentence = "I love learning Natural Language Processing with Python!"
+sentence = "I love learning Na"
 tokennize = word_tokenize(sentence)
 tokennize
 
@@ -37,7 +37,7 @@ import spacy
 # Load the English language model
 nlp = spacy.load("en_core_web_sm")
 
-sentence = "I love learning Natural Language Processing with Python!"
+sentence = ""The United Nations acknowledged today that the world has failed to meet its ambitious 2025 target to eliminate child labour, as a new joint report from the International Labour Organization and UNICEF reveals the persistence of the practice affecting millions of children worldwide.""
 
 # Process the sentence with SpaCy
 doc = nlp(sentence)
