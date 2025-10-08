@@ -47,6 +47,3 @@ A collection of **Natural Language Processing (NLP)** Jupyter Notebooks demonstr
 - Build a basic AI story generator.
 - Apply topic modeling to textual data.
 
----
-
-This README reflects the latest structure and purpose of each file in your repository. You can copy this directly into your `README.md` for a polished, informative repo landing page.
